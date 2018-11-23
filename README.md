@@ -1,5 +1,7 @@
 # AngularTourOfCoins
 
+This project contains some vulnerabilities in the libraries. Although this was a fun learning tool for building websites using the MEAN stack, I found it particularly fun to learn how to trigger the vulnerabilites within the libs. I have posted the code for you to make your own fun! :)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
 ## Development server
